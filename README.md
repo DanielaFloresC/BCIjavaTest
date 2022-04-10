@@ -1,5 +1,7 @@
 # BCIjavaTest
 test java bci
+#documentacion API
+http://localhost:8080/swagger-ui.html
 # pruebas unitarias
 https://www.getpostman.com/collections/0edc393046018f726938
 # diagrama de la solucion
